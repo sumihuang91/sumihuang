@@ -1,4 +1,4 @@
 🇭🇰 香港 - CN2 | Media = ss, 47.91.232.217, 153, encrypt-method=chacha20-ietf-poly1305, password=UrTAdN, obfs=tls, obfs-host=4b26f12876.wns.windows.com, udp-relay=true, tfo=true
 🇭🇰 香港 - AZURE B | Media = ss, hk-azureb.xwdsh.xyz, 34807, encrypt-method=chacha20-ietf-poly1305, password=3Im7O1, obfs=http, obfs-host=wns.windows.com, udp-relay=true, tfo=true
-🇭🇰 香港 - IPLC | Media = ss, hk-iplc.xwdsh.xyz, 153, encrypt-method=chacha20-ietf-poly1305, password=UrTAdN, obfs=tls, obfs-host=4b26f12876.wns.windows.com, tfo=true
+🇭🇰 香港 - IPLC | Media = ss, 47.107.25.183, 153, encrypt-method=chacha20-ietf-poly1305, password=UrTAdN, obfs=tls, obfs-host=4b26f12876.wns.windows.com, tfo=true
 🇭🇰 香港 - HGC | Media = ss, 118.140.26.188, 153, encrypt-method=chacha20-ietf-poly1305, password=UrTAdN, obfs=tls, obfs-host=4b26f12876.wns.windows.com, udp-relay=true, tfo=true
