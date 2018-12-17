@@ -1,3 +1,4 @@
-🇭🇰 香港 - AZURE F | Media = ss, hk-azuref.xwdsh.xyz, 34807, encrypt-method=chacha20-ietf-poly1305, password=3Im7O1, obfs=http, obfs-host=wns.windows.com, udp-relay=true, tfo=true
-🇭🇰 香港 - AZURE G | Media = ss, hk-azureg.xwdsh.xyz, 34807, encrypt-method=chacha20-ietf-poly1305, password=3Im7O1, obfs=http, obfs-host=wns.windows.com, udp-relay=true, tfo=true
-🇭🇰 香港 - AZURE H | Media = ss, hk-azureh.xwdsh.xyz, 34807, encrypt-method=chacha20-ietf-poly1305, password=3Im7O1, obfs=http, obfs-host=wns.windows.com, udp-relay=true, tfo=true
+🇭🇰 香港 - AZURE A | Media = ss, 13.70.18.174, 34807, encrypt-method=chacha20-ietf-poly1305, password=3Im7O1, obfs=http, obfs-host=wns.windows.com, udp-relay=true, tfo=true
+🇭🇰 香港 - AZURE B | Media = ss, 23.101.12.47, 34807, encrypt-method=chacha20-ietf-poly1305, password=3Im7O1, obfs=http, obfs-host=wns.windows.com, udp-relay=true, tfo=true
+🇭🇰 香港 - AZURE C | Media = ss, 168.63.155.61, 34807, encrypt-method=chacha20-ietf-poly1305, password=3Im7O1, obfs=http, obfs-host=wns.windows.com, udp-relay=true, tfo=true
+🇭🇰 香港 - AZURE D | Media = ss, 168.63.152.35, 34807, encrypt-method=chacha20-ietf-poly1305, password=3Im7O1, obfs=http, obfs-host=wns.windows.com, udp-relay=true, tfo=true
