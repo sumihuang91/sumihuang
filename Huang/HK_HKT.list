@@ -1,4 +1,4 @@
-🇭🇰 香港 - HKT A | Media = ss, hk-hkta.xwdsh.xyz, 34807, encrypt-method=chacha20-ietf-poly1305, password=3Im7O1, obfs=http, obfs-host=wns.windows.com, udp-relay=true, tfo=true
-🇭🇰 香港 - HKT D | Media = ss, hk-hktd.xwdsh.xyz, 34807, encrypt-method=chacha20-ietf-poly1305, password=3Im7O1, obfs=http, obfs-host=wns.windows.com, udp-relay=true, tfo=true
-🇭🇰 香港 - HKT F | Media = ss, hk-hktf.xwdsh.xyz, 34807, encrypt-method=chacha20-ietf-poly1305, password=3Im7O1, obfs=http, obfs-host=wns.windows.com, udp-relay=true, tfo=true
-🇭🇰 香港 - HK G | Media = ss, hk-hktg.xwdsh.xyz, 34807, encrypt-method=chacha20-ietf-poly1305, password=3Im7O1, obfs=http, obfs-host=wns.windows.com, udp-relay=true, tfo=true
+🇭🇰 HK_HKT A -> US_AZURE A= ss, 42.200.166.247, 34807, encrypt-method=chacha20-ietf-poly1305, password=3Im7O1, obfs=http, obfs-host=wns.windows.com, udp-relay=true, tfo=true
+🇭🇰 HK_HKT B | Media = ss, 42.200.113.154, 34807, encrypt-method=chacha20-ietf-poly1305, password=3Im7O1, obfs=http, obfs-host=wns.windows.com, udp-relay=true, tfo=true
+🇭🇰 HK_HKT C | Media = ss, 42.200.115.192, 34807, encrypt-method=chacha20-ietf-poly1305, password=3Im7O1, obfs=http, obfs-host=wns.windows.com, udp-relay=true, tfo=true
+🇭🇰 HK_HKT D | Media = ss, 42.3.53.41, 34807, encrypt-method=chacha20-ietf-poly1305, password=3Im7O1, obfs=http, obfs-host=wns.windows.com, udp-relay=true, tfo=true
