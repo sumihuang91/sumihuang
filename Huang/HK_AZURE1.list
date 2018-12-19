@@ -1,4 +1,4 @@
-🇭🇰 HK -> US = ss, 119.236.100.162, 34807, encrypt-method=chacha20-ietf-poly1305, password=3Im7O1, obfs=tls, obfs-host=4b26f12876.wns.windows.com, udp-relay=true, tfo=true
+🇨🇳 SH -> US_AZURE B = ss, 47.101.50.194, 34807, encrypt-method=chacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true, tfo=true
 🇭🇰 HK_IPLC  = ss, 47.107.25.183, 153, encrypt-method=chacha20-ietf-poly1305, password=UrTAdN, obfs=tls, obfs-host=4b26f12876.wns.windows.com, tfo=true
 🇭🇰 HK_HGC A  = ss, 118.140.26.188, 153, encrypt-method=chacha20-ietf-poly1305, password=UrTAdN, obfs=tls, obfs-host=4b26f12876.wns.windows.com, udp-relay=true, tfo=true
 🇭🇰 HK_HGC B  = ss, 210.3.119.188, 153, encrypt-method=chacha20-ietf-poly1305, password=UrTAdN, obfs=tls, obfs-host=4b26f12876.wns.windows.com, udp-relay=true, tfo=true
