@@ -1,3 +1,4 @@
-🇨🇳 SZ-BGP B -> HK-AZURE B = Media = ss, 39.108.165.254, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true, tfo=true
-🇨🇳 SZ-BGP C -> HK-AZURE A  = ss, ss, 47.107.82.140, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true, tfo=true
-🇨🇳 SZ-BGP A -> Any =  ss, 47.107.82.133, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true, tfo=true
+🇨🇳 中国深圳 - BGP A | Back -> 香港 - HKT B | Media = ss, 47.107.82.133, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true, tfo=true
+🇨🇳 中国深圳 - BGP B | Back -> 香港 - AZURE B | Media = ss, 39.108.165.254, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true, tfo=true
+🇨🇳 中国深圳 - BGP C | Back -> 香港 - AZURE A | Media = ss, 47.107.82.140, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true, tfo=true
+
