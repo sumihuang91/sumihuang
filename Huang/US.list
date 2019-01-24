@@ -1,2 +1,2 @@
-🇭🇰 HK_WTT 01 -> US_AZURE 01 = ss, 116.92.235.200, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true
-🇭🇰 HK_WTT 02 -> US_AZURE 02 = ss, 116.92.234.246, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true
+🇭🇰 HK_WTT 01 -> US_AZURE 01 = ss, 116.92.235.200, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true, tfo=true
+🇭🇰 HK_WTT 02 -> US_AZURE 02 = ss, 116.92.234.246, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true, tfo=true
