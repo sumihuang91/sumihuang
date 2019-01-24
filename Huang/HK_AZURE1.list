@@ -4,4 +4,4 @@
 🇭🇰 HK_HKT 01 = ss, hkg11.qiangdong.xyz, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true
 🇭🇰 HK_PCCW 01 = ss, 193.110.202.198, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true
 🇭🇰 HK_PCCW 02 = ss, 193.110.201.134, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true
-🇭🇰 HK_WTT 01 = ss, 116.92.235.200, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true
+🇭🇰 HK_WTT 03 = ss, 116.92.234.232, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true
