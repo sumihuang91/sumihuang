@@ -1,7 +1,7 @@
 🇭🇰 HK_IPLC  = ss, 47.107.25.183, 153, encrypt-method=chacha20-ietf-poly1305, password=UrTAdN, obfs=tls, obfs-host=e7c3112876.wns.windows.com, tfo=true
 🇭🇰 HK_BGP 01 = ss, 103.1.154.21, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true, tfo=true
 🇭🇰 HK_BGP 02 = ss, 103.1.154.72, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true, tfo=true
-🇭🇰 HK_HKT 01 = ss, hkg11.qiangdong.xyz, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true, tfo=true
+🇭🇰 HK_HKT 02 = ss, hkg22.qiangdong.xyz, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true, tfo=true
 🇭🇰 HK_PCCW 01 = ss, 193.110.202.198, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true, tfo=true
 🇭🇰 HK_PCCW 02 = ss, 193.110.201.134, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true, tfo=true
 🇭🇰 HK_WTT 03 = ss, 116.92.234.232, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true, tfo=true
