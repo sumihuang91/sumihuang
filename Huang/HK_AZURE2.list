@@ -1,3 +1,0 @@
-🇨🇳 SZ_BGP -> HK_PCCW 01 = ss, 120.79.47.204, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true, tfo=true
-🇨🇳 HZ_ BGP -> HK_BGP = ss, 47.96.177.39, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true, tfo=true
-🇨🇳 SH_BGP 02 -> HK_PCCW 02 = ss, 47.102.44.0, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true, tfo=true
